@@ -1,0 +1,8 @@
+langchain
+langchain-groq
+langchain-community
+langchain-core
+faiss-cpu
+python-dotenv
+pypdf
+tiktoken
